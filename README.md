@@ -5,7 +5,7 @@
 <p align="center">
   Software Engineer @ <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjjptP-oLuCAxXaLFkFHY_sCGkQFnoECAYQAQ&url=https%3A%2F%2Fwww.stsci.edu%2Fhome&usg=AOvVaw1q1QtWmxTR-kopvsVxDKtZ&opi=89978449">Space Telescope Science Institute</a> <br>
   I build & maintain astronomical software for NASA flagship mission data. 🔭 <br>
-  In my work and in my personal life, I advocate for open, accessible data, and breaking down the barriers to science.
+  In my work and in my personal life, I advocate for making data public and accessible, and breaking down the barriers to science.
 </p>
 
 <p align="center">
