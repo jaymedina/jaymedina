@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Welcome to my page! 👋</b>
+  <b>Thanks for coming to my page! 👋</b>
 </p>
 
 <p align="center">
