@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my page! 👋
+
+I build & maintain astronomical software for NASA flagship mission data. 🔭 <br>
+In my work and in my personal life I advocate for open accessible data, and breaking down the barriers to science.
 
 <!--
 **jaymedina/jaymedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
