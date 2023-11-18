@@ -3,9 +3,10 @@
 🔭 I build & maintain astronomical software for NASA flagship mission data\
 📈 In my work and in my personal life, I advocate for making data accessible and actionable in order to break down the barriers to science
 
+#### Here's where you can reach me...
 [![LinkedIn](https://img.shields.io/badge/-Jenny_V._Medina-0A66C2?style=flat-square?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jenny-v-medina-a53a0332/)
 
-### What I've been up to...
+#### And here's what I've been up to...
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2785](https://github.com/astropy/astroquery/pull/2785#issuecomment-1814966208) in [astropy/astroquery](https://github.com/astropy/astroquery)
