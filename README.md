@@ -4,7 +4,9 @@
 📈 In my work and in my personal life, I advocate for making data accessible and actionable in order to break down the barriers to science <br>
 
 
-<a href="https://www.linkedin.com/in/jenny-v-medina-a53a0332/"><img src="https://img.shields.io/badge/-Jenny V. Medina-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/jenny-v-medina-a53a0332/"><img src="https://img.shields.io/badge/-Jenny V. Medina-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"></a>
+
+<!--START_SECTION:activity-->
 
 <!--
 **jaymedina/jaymedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
