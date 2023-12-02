@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jaymedina/jaymedina/pull/1) in [jaymedina/jaymedina](https://github.com/jaymedina/jaymedina)
-2. 💪 Opened PR [#1](https://github.com/jaymedina/jaymedina/pull/1) in [jaymedina/jaymedina](https://github.com/jaymedina/jaymedina)
-3. 🗣 Commented on [#2785](https://github.com/astropy/astroquery/pull/2785#issuecomment-1814966208) in [astropy/astroquery](https://github.com/astropy/astroquery)
-4. 🗣 Commented on [#2785](https://github.com/astropy/astroquery/pull/2785#issuecomment-1806319825) in [astropy/astroquery](https://github.com/astropy/astroquery)
-5. 🗣 Commented on [#2785](https://github.com/astropy/astroquery/pull/2785#issuecomment-1780135744) in [astropy/astroquery](https://github.com/astropy/astroquery)
+1. 💪 Opened PR [#57](https://github.com/spacetelescope/mast_notebooks/pull/57) in [spacetelescope/mast_notebooks](https://github.com/spacetelescope/mast_notebooks)
+2. 🗣 Commented on [#2693](https://github.com/astropy/astroquery/pull/2693#issuecomment-1830954592) in [astropy/astroquery](https://github.com/astropy/astroquery)
+3. 🗣 Commented on [#2145](https://github.com/astropy/astroquery/pull/2145#issuecomment-1830954150) in [astropy/astroquery](https://github.com/astropy/astroquery)
+4. ❌ Closed PR [#72](https://github.com/spacetelescope/astrocut/pull/72) in [spacetelescope/astrocut](https://github.com/spacetelescope/astrocut)
+5. ❌ Closed PR [#75](https://github.com/spacetelescope/astrocut/pull/75) in [spacetelescope/astrocut](https://github.com/spacetelescope/astrocut)
 <!--END_SECTION:activity-->
