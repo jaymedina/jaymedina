@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1032](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1032#issuecomment-1868136601) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-2. 🗣 Commented on [#1032](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1032#issuecomment-1868121307) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-3. 🗣 Commented on [#1032](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1032#issuecomment-1868115131) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-4. ❌ Closed PR [#1031](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1031) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 💪 Opened PR [#1032](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1032) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+1. 💪 Opened PR [#277](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/277) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
+2. ❌ Closed PR [#276](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/276) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
+3. 💪 Opened PR [#276](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/276) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
+4. 🗣 Commented on [#1032](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1032#issuecomment-1875897684) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. 🎉 Merged PR [#1032](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1032) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
