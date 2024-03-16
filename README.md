@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/12) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🗣 Commented on [#12](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/12#issuecomment-1986323914) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-3. 🗣 Commented on [#12](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/12#issuecomment-1985973260) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-4. 🗣 Commented on [#12](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/12#issuecomment-1984502547) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-5. 🗣 Commented on [#15](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/15#issuecomment-1984355318) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-1996180481) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-1996043742) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+3. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-1993067372) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 💪 Opened PR [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+5. 💪 Opened PR [#16](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/16) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
 <!--END_SECTION:activity-->
