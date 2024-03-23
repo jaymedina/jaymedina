@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-1996180481) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-1996043742) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-3. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-1993067372) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-4. 💪 Opened PR [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-5. 💪 Opened PR [#16](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/16) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🎉 Merged PR [#16](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/16) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. 🎉 Merged PR [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+3. 🗣 Commented on [#18](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/18#issuecomment-2009919986) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 🎉 Merged PR [#39](https://github.com/Sage-Bionetworks-Workflows/py-orca/pull/39) in [Sage-Bionetworks-Workflows/py-orca](https://github.com/Sage-Bionetworks-Workflows/py-orca)
+5. 💪 Opened PR [#39](https://github.com/Sage-Bionetworks-Workflows/py-orca/pull/39) in [Sage-Bionetworks-Workflows/py-orca](https://github.com/Sage-Bionetworks-Workflows/py-orca)
 <!--END_SECTION:activity-->
