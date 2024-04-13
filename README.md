@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/19) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🎉 Merged PR [#21](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/21) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-3. 🗣 Commented on [#21](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/21#issuecomment-2032782916) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-4. 💪 Opened PR [#21](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/21) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-5. 🗣 Commented on [#20](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/20#issuecomment-2030680472) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🎉 Merged PR [#20](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/20) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. 🗣 Commented on [#47](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/47#issuecomment-2050549006) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+3. 💪 Opened PR [#47](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/47) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+4. 🎉 Merged PR [#46](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/46) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+5. 💪 Opened PR [#46](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/46) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
 <!--END_SECTION:activity-->
