@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/20) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🗣 Commented on [#47](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/47#issuecomment-2050549006) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-3. 💪 Opened PR [#47](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/47) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-4. 🎉 Merged PR [#46](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/46) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-5. 💪 Opened PR [#46](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/46) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+1. 🚀 Published release [v4.2.0](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 🚀 Published release [v4.2.0-rc](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0-rc) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+3. 🗣 Commented on [#1087](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1087#issuecomment-2059748239) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+4. 🎉 Merged PR [#1087](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1087) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. 💪 Opened PR [#1087](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1087) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
