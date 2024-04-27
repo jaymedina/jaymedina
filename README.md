@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.2.0](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-2. 🚀 Published release [v4.2.0-rc](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0-rc) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-3. 🗣 Commented on [#1087](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1087#issuecomment-2059748239) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-4. 🎉 Merged PR [#1087](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1087) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 💪 Opened PR [#1087](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1087) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+1. 🎉 Merged PR [#22](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/22) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. 🗣 Commented on [#22](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/22#issuecomment-2078027661) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+3. 💪 Opened PR [#22](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/22) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 🚀 Published release [v4.2.0](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. 🚀 Published release [v4.2.0-rc](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0-rc) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
