@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/22) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🗣 Commented on [#22](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/22#issuecomment-2078027661) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-3. 💪 Opened PR [#22](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/22) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-4. 🚀 Published release [v4.2.0](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 🚀 Published release [v4.2.0-rc](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v4.2.0-rc) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+1. 💪 Opened PR [#24](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/24) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. 🗣 Commented on [#1](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation/pull/1#issuecomment-2089264746) in [Sage-Bionetworks-Challenges/pegs-evaluation](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation)
+3. ❌ Closed PR [#1](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation/pull/1) in [Sage-Bionetworks-Challenges/pegs-evaluation](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation)
+4. 💪 Opened PR [#1](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation/pull/1) in [Sage-Bionetworks-Challenges/pegs-evaluation](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation)
+5. 💪 Opened PR [#23](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/23) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
 <!--END_SECTION:activity-->
