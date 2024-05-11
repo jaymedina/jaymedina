@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/24) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🗣 Commented on [#1](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation/pull/1#issuecomment-2089264746) in [Sage-Bionetworks-Challenges/pegs-evaluation](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation)
-3. ❌ Closed PR [#1](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation/pull/1) in [Sage-Bionetworks-Challenges/pegs-evaluation](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation)
-4. 💪 Opened PR [#1](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation/pull/1) in [Sage-Bionetworks-Challenges/pegs-evaluation](https://github.com/Sage-Bionetworks-Challenges/pegs-evaluation)
-5. 💪 Opened PR [#23](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/23) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🎉 Merged PR [#52](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/52) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+2. 💪 Opened PR [#52](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/52) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+3. 🎉 Merged PR [#29](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/29) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 🗣 Commented on [#29](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/29#issuecomment-2102981633) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+5. 🗣 Commented on [#29](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/29#issuecomment-2101786346) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
 <!--END_SECTION:activity-->
