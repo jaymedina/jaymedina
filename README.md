@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/53) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-2. 💪 Opened PR [#1100](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1100) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-3. 🎉 Merged PR [#26](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/26) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-4. 🗣 Commented on [#26](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/26#issuecomment-2122891634) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-5. 🎉 Merged PR [#27](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/27) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🎉 Merged PR [#1100](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1100) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 🗣 Commented on [#1100](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1100#issuecomment-2138103409) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+3. 🗣 Commented on [#1100](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1100#issuecomment-2138078685) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+4. 🎉 Merged PR [#53](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/53) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+5. 💪 Opened PR [#1100](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1100) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
