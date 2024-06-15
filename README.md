@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/31) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-2. 🎉 Merged PR [#1102](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1102) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-3. 🚀 Published release [Test prerelease](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v0.0.0-rc) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-4. 🚀 Published release [Test release](https://github.com/Sage-Bionetworks/synapsePythonClient/releases/tag/v0.0.0) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 🗣 Commented on [#1102](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1102#issuecomment-2145422814) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+1. 🎉 Merged PR [#55](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/55) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+2. 💪 Opened PR [#55](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/55) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+3. 🎉 Merged PR [#31](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/31) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 🗣 Commented on [#31](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/31#issuecomment-2168350168) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+5. 💪 Opened PR [#56](https://github.com/Sage-Bionetworks/snowflake/pull/56) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
 <!--END_SECTION:activity-->
