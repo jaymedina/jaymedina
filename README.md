@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/Sage-Bionetworks/snowflake/pull/68) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🗣 Commented on [#345](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/345#issuecomment-2234673348) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
-3. 🎉 Merged PR [#36](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/36) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-4. 💪 Opened PR [#36](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/36) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-5. 🗣 Commented on [#35](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/35#issuecomment-2221393337) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🎉 Merged PR [#62](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/62) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+2. 💪 Opened PR [#62](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/62) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+3. 🎉 Merged PR [#38](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/38) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 💪 Opened PR [#38](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/38) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+5. 🎉 Merged PR [#61](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/61) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
 <!--END_SECTION:activity-->
