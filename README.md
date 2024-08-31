@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/1) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
-2. 🗣 Commented on [#1](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/1#issuecomment-2307683896) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
-3. 💪 Opened PR [#31](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/31) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-4. ❌ Closed PR [#20](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/20) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-5. 🗣 Commented on [#1](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/1#issuecomment-2305994815) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+1. 💪 Opened PR [#73](https://github.com/Sage-Bionetworks/snowflake/pull/73) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+2. 🎉 Merged PR [#2](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/2) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+3. 🗣 Commented on [#2](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/2#issuecomment-2316149502) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+4. 💪 Opened PR [#2](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/2) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+5. 🎉 Merged PR [#1](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/1) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
 <!--END_SECTION:activity-->
