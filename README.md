@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#73](https://github.com/Sage-Bionetworks/snowflake/pull/73) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🎉 Merged PR [#2](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/2) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
-3. 🗣 Commented on [#2](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/2#issuecomment-2316149502) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
-4. 💪 Opened PR [#2](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/2) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
-5. 🎉 Merged PR [#1](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/1) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+1. 🎉 Merged PR [#73](https://github.com/Sage-Bionetworks/snowflake/pull/73) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+2. 🗣 Commented on [#73](https://github.com/Sage-Bionetworks/snowflake/pull/73#issuecomment-2334104171) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+3. 🎉 Merged PR [#74](https://github.com/Sage-Bionetworks/snowflake/pull/74) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 🗣 Commented on [#74](https://github.com/Sage-Bionetworks/snowflake/pull/74#issuecomment-2331935424) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+5. 🎉 Merged PR [#1](https://github.com/Sage-Bionetworks/dcc-streamlit-app/pull/1) in [Sage-Bionetworks/dcc-streamlit-app](https://github.com/Sage-Bionetworks/dcc-streamlit-app)
 <!--END_SECTION:activity-->
