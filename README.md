@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1516](https://github.com/Sage-Bionetworks/schematic/pull/1516) in [Sage-Bionetworks/schematic](https://github.com/Sage-Bionetworks/schematic)
-2. 🎉 Merged PR [#1140](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1140) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-3. 💪 Opened PR [#1140](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1140) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-4. 🎉 Merged PR [#1135](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1135) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 🗣 Commented on [#1135](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1135#issuecomment-2377182164) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+1. 🗣 Commented on [#1510](https://github.com/Sage-Bionetworks/schematic/pull/1510#issuecomment-2418089827) in [Sage-Bionetworks/schematic](https://github.com/Sage-Bionetworks/schematic)
+2. 💪 Opened PR [#1516](https://github.com/Sage-Bionetworks/schematic/pull/1516) in [Sage-Bionetworks/schematic](https://github.com/Sage-Bionetworks/schematic)
+3. 🎉 Merged PR [#1140](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1140) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+4. 💪 Opened PR [#1140](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1140) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. 🎉 Merged PR [#1135](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1135) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
