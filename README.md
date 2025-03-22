@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#380](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/380) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
-2. 🎉 Merged PR [#164](https://github.com/Sage-Bionetworks/snowflake/pull/164) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 💪 Opened PR [#164](https://github.com/Sage-Bionetworks/snowflake/pull/164) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. 🗣 Commented on [#157](https://github.com/Sage-Bionetworks/snowflake/pull/157#issuecomment-2701727336) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 🗣 Commented on [#157](https://github.com/Sage-Bionetworks/snowflake/pull/157#issuecomment-2695234076) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+1. 🗣 Commented on [#6](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/6#issuecomment-2741623780) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+2. 🗣 Commented on [#6](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/6#issuecomment-2741617090) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
+3. 🎉 Merged PR [#42](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/42) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 🗣 Commented on [#42](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/42#issuecomment-2740370022) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+5. 💪 Opened PR [#6](https://github.com/Sage-Bionetworks/streamlit-snowflake-template/pull/6) in [Sage-Bionetworks/streamlit-snowflake-template](https://github.com/Sage-Bionetworks/streamlit-snowflake-template)
 <!--END_SECTION:activity-->
