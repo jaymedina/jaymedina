@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test](https://github.com/jaymedina/jenny-test-multi-tasks/releases/tag/1.0) in [jaymedina/jenny-test-multi-tasks](https://github.com/jaymedina/jenny-test-multi-tasks)
-2. 💪 Opened PR [#46](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/46) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
-3. 🗣 Commented on [#85](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/85#issuecomment-2810706513) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-4. 🗣 Commented on [#125](https://github.com/Sage-Bionetworks/snowflake/pull/125#issuecomment-2797756974) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 🗣 Commented on [#193](https://github.com/Sage-Bionetworks/snowflake/pull/193#issuecomment-2797232001) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+1. 🎉 Merged PR [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+2. 🗣 Commented on [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61#issuecomment-2830373625) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+3. 🗣 Commented on [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61#issuecomment-2828908371) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+4. 💪 Opened PR [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+5. 🎉 Merged PR [#47](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/47) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
 <!--END_SECTION:activity-->
