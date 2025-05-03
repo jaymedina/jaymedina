@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-2. 🗣 Commented on [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61#issuecomment-2830373625) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-3. 🗣 Commented on [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61#issuecomment-2828908371) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-4. 💪 Opened PR [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-5. 🎉 Merged PR [#47](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/47) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 💪 Opened PR [#201](https://github.com/Sage-Bionetworks/snowflake/pull/201) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+2. 🎉 Merged PR [#200](https://github.com/Sage-Bionetworks/snowflake/pull/200) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+3. 💪 Opened PR [#200](https://github.com/Sage-Bionetworks/snowflake/pull/200) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 🗣 Commented on [#11](https://github.com/Sage-Bionetworks-Challenges/olfactory-mixtures-prediction/issues/11#issuecomment-2839602526) in [Sage-Bionetworks-Challenges/olfactory-mixtures-prediction](https://github.com/Sage-Bionetworks-Challenges/olfactory-mixtures-prediction)
+5. 🎉 Merged PR [#61](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/61) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
 <!--END_SECTION:activity-->
