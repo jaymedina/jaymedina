@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#216](https://github.com/Sage-Bionetworks/snowflake/pull/216#issuecomment-2947586050) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🗣 Commented on [#216](https://github.com/Sage-Bionetworks/snowflake/pull/216#issuecomment-2946139664) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 🗣 Commented on [#215](https://github.com/Sage-Bionetworks/snowflake/pull/215#issuecomment-2944885033) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. 🗣 Commented on [#215](https://github.com/Sage-Bionetworks/snowflake/pull/215#issuecomment-2940232840) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 💪 Opened PR [#407](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/407) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
+1. 🗣 Commented on [#216](https://github.com/Sage-Bionetworks/snowflake/pull/216#issuecomment-2964288574) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+2. 🎉 Merged PR [#57](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/57) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+3. 🗣 Commented on [#56](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/56#issuecomment-2959961892) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+4. 💪 Opened PR [#57](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/57) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+5. 🗣 Commented on [#56](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/56#issuecomment-2959891865) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
 <!--END_SECTION:activity-->
