@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#227](https://github.com/Sage-Bionetworks/snowflake/pull/227) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🗣 Commented on [#227](https://github.com/Sage-Bionetworks/snowflake/pull/227#issuecomment-3062350020) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 🗣 Commented on [#227](https://github.com/Sage-Bionetworks/snowflake/pull/227#issuecomment-3062348094) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. 💪 Opened PR [#228](https://github.com/Sage-Bionetworks/snowflake/pull/228) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 🗣 Commented on [#227](https://github.com/Sage-Bionetworks/snowflake/pull/227#issuecomment-3059962728) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+1. 🎉 Merged PR [#109](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/109) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+2. 🎉 Merged PR [#61](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/61) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+3. 🎉 Merged PR [#230](https://github.com/Sage-Bionetworks/snowflake/pull/230) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 💪 Opened PR [#109](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/109) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+5. 🗣 Commented on [#61](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/61#issuecomment-3079024897) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
 <!--END_SECTION:activity-->
