@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1224](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1224) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-2. 🎉 Merged PR [#110](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/110) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-3. 💪 Opened PR [#110](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/110) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-4. 🎉 Merged PR [#109](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/109) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-5. 🎉 Merged PR [#61](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/61) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 🗣 Commented on [#58](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/58#issuecomment-3192309507) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. ❌ Closed PR [#58](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/58) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+3. 🎉 Merged PR [#236](https://github.com/Sage-Bionetworks/snowflake/pull/236) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 💪 Opened PR [#236](https://github.com/Sage-Bionetworks/snowflake/pull/236) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+5. 💪 Opened PR [#1224](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1224) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
