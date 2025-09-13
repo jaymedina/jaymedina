@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#245](https://github.com/Sage-Bionetworks/snowflake/pull/245) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 💪 Opened PR [#245](https://github.com/Sage-Bionetworks/snowflake/pull/245) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. ❌ Closed PR [#244](https://github.com/Sage-Bionetworks/snowflake/pull/244) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. 💪 Opened PR [#244](https://github.com/Sage-Bionetworks/snowflake/pull/244) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 🗣 Commented on [#58](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/58#issuecomment-3192309507) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+1. 💪 Opened PR [#1244](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1244) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 🎉 Merged PR [#245](https://github.com/Sage-Bionetworks/snowflake/pull/245) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+3. 💪 Opened PR [#245](https://github.com/Sage-Bionetworks/snowflake/pull/245) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. ❌ Closed PR [#244](https://github.com/Sage-Bionetworks/snowflake/pull/244) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+5. 💪 Opened PR [#244](https://github.com/Sage-Bionetworks/snowflake/pull/244) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
 <!--END_SECTION:activity-->
