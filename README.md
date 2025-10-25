@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/Sage-Bionetworks-Workflows/nf-synapse/pull/13#issuecomment-3416867080) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
-2. 🗣 Commented on [#256](https://github.com/Sage-Bionetworks/snowflake/pull/256#issuecomment-3415687753) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 🗣 Commented on [#13](https://github.com/Sage-Bionetworks-Workflows/nf-synapse/pull/13#issuecomment-3412657391) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
-4. 💪 Opened PR [#13](undefined) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
-5. 💪 Opened PR [#52](undefined) in [Sage-Bionetworks-Workflows/py-orca](https://github.com/Sage-Bionetworks-Workflows/py-orca)
+1. 🗣 Commented on [#1244](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1244#issuecomment-3439544516) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 🗣 Commented on [#1262](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1262#issuecomment-3439491328) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+3. 🗣 Commented on [#259](https://github.com/Sage-Bionetworks/snowflake/pull/259#issuecomment-3437285038) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 🗣 Commented on [#259](https://github.com/Sage-Bionetworks/snowflake/pull/259#issuecomment-3434205372) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+5. 🗣 Commented on [#13](https://github.com/Sage-Bionetworks-Workflows/nf-synapse/pull/13#issuecomment-3429946513) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
 <!--END_SECTION:activity-->
