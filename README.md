@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#264](undefined) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🗣 Commented on [#264](https://github.com/Sage-Bionetworks/snowflake/pull/264#issuecomment-3474190943) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 🗣 Commented on [#264](https://github.com/Sage-Bionetworks/snowflake/pull/264#issuecomment-3474107536) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. ❌ Unlabeled PR [#262](undefined) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. ❌ Labeled PR [#262](undefined) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+1. 🗣 Commented on [#1251](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1251#issuecomment-3614076104) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 🗣 Commented on [#1287](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1287#issuecomment-3608946046) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+3. 🗣 Commented on [#1287](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1287#issuecomment-3608805776) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+4. ❌ Merged PR [#1286](undefined) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. 💪 Opened PR [#1286](undefined) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
