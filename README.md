@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](undefined) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-2. 💪 Opened PR [#15](undefined) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
-3. 🗣 Commented on [#1251](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1251#issuecomment-3614076104) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-4. 🗣 Commented on [#1287](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1287#issuecomment-3608946046) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 🗣 Commented on [#1287](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1287#issuecomment-3608805776) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+1. ❌ Merged PR [#1252](undefined) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 🗣 Commented on [#1252](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1252#issuecomment-3684619110) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+3. ❌ Merged PR [#1251](undefined) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+4. 🗣 Commented on [#1251](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1251#issuecomment-3683444253) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. ❌ Merged PR [#15](undefined) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
 <!--END_SECTION:activity-->
