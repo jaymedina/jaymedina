@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1252](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1252) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-2. 🗣 Commented on [#1252](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1252#issuecomment-3684619110) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-3. 🎉 Merged PR [#1251](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1251) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-4. 🗣 Commented on [#1251](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1251#issuecomment-3683444253) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
-5. 🎉 Merged PR [#15](https://github.com/Sage-Bionetworks-Workflows/nf-synapse/pull/15) in [Sage-Bionetworks-Workflows/nf-synapse](https://github.com/Sage-Bionetworks-Workflows/nf-synapse)
+1. 🎉 Merged PR [#1304](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1304) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+2. 💪 Opened PR [#1304](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1304) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+3. 🎉 Merged PR [#1250](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1250) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+4. 🗣 Commented on [#1250](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1250#issuecomment-3716507064) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
+5. 🎉 Merged PR [#1252](https://github.com/Sage-Bionetworks/synapsePythonClient/pull/1252) in [Sage-Bionetworks/synapsePythonClient](https://github.com/Sage-Bionetworks/synapsePythonClient)
 <!--END_SECTION:activity-->
