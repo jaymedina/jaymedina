@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#280](https://github.com/Sage-Bionetworks/snowflake/pull/280#issuecomment-3825841172) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. ℹ️ Labeled PR [#281](https://github.com/Sage-Bionetworks/snowflake/pull/281) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 💪 Opened PR [#281](https://github.com/Sage-Bionetworks/snowflake/pull/281) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. ℹ️ Labeled PR [#280](https://github.com/Sage-Bionetworks/snowflake/pull/280) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 💪 Opened PR [#280](https://github.com/Sage-Bionetworks/snowflake/pull/280) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+1. 🎉 Merged PR [#285](https://github.com/Sage-Bionetworks/snowflake/pull/285) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+2. 🎉 Merged PR [#78](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/78) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+3. 💪 Opened PR [#285](https://github.com/Sage-Bionetworks/snowflake/pull/285) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 🗣 Commented on [#78](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/78#issuecomment-3855035342) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+5. 💪 Opened PR [#78](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/78) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
 <!--END_SECTION:activity-->
