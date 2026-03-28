@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#291](https://github.com/Sage-Bionetworks/snowflake/pull/291) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🗣 Commented on [#291](https://github.com/Sage-Bionetworks/snowflake/pull/291#issuecomment-4013323738) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 🎉 Merged PR [#82](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/82) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
-4. 🗣 Commented on [#291](https://github.com/Sage-Bionetworks/snowflake/pull/291#issuecomment-4012834059) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-5. 💪 Opened PR [#82](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/82) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+1. 🗣 Commented on [#62](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge/pull/62#issuecomment-4113338918) in [Sage-Bionetworks-Workflows/nf-synapse-challenge](https://github.com/Sage-Bionetworks-Workflows/nf-synapse-challenge)
+2. 🎉 Merged PR [#291](https://github.com/Sage-Bionetworks/snowflake/pull/291) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+3. 🗣 Commented on [#291](https://github.com/Sage-Bionetworks/snowflake/pull/291#issuecomment-4013323738) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
+4. 🎉 Merged PR [#82](https://github.com/Sage-Bionetworks-Workflows/eks-stack/pull/82) in [Sage-Bionetworks-Workflows/eks-stack](https://github.com/Sage-Bionetworks-Workflows/eks-stack)
+5. 🗣 Commented on [#291](https://github.com/Sage-Bionetworks/snowflake/pull/291#issuecomment-4012834059) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
 <!--END_SECTION:activity-->
