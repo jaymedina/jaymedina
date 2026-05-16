@@ -8,9 +8,9 @@
 #### Here's some of what I've been up to...
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#306](https://github.com/Sage-Bionetworks/snowflake/pull/306) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-2. 🗣 Commented on [#306](https://github.com/Sage-Bionetworks/snowflake/pull/306#issuecomment-4308479073) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-3. 🗣 Commented on [#309](https://github.com/Sage-Bionetworks/snowflake/pull/309#issuecomment-4305108832) in [Sage-Bionetworks/snowflake](https://github.com/Sage-Bionetworks/snowflake)
-4. 🎉 Merged PR [#152](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/152) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
-5. 💪 Opened PR [#152](https://github.com/Sage-Bionetworks-Workflows/orca-recipes/pull/152) in [Sage-Bionetworks-Workflows/orca-recipes](https://github.com/Sage-Bionetworks-Workflows/orca-recipes)
+1. 🎉 Merged PR [#567](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/567) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
+2. 💪 Opened PR [#567](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra/pull/567) in [Sage-Bionetworks-Workflows/nextflow-infra](https://github.com/Sage-Bionetworks-Workflows/nextflow-infra)
+3. 🚀 Published release [v1.5.3](https://github.com/Sage-Bionetworks-Workflows/py-orca/releases/tag/v1.5.3) in [Sage-Bionetworks-Workflows/py-orca](https://github.com/Sage-Bionetworks-Workflows/py-orca)
+4. 🎉 Merged PR [#54](https://github.com/Sage-Bionetworks-Workflows/py-orca/pull/54) in [Sage-Bionetworks-Workflows/py-orca](https://github.com/Sage-Bionetworks-Workflows/py-orca)
+5. 💪 Opened PR [#54](https://github.com/Sage-Bionetworks-Workflows/py-orca/pull/54) in [Sage-Bionetworks-Workflows/py-orca](https://github.com/Sage-Bionetworks-Workflows/py-orca)
 <!--END_SECTION:activity-->
