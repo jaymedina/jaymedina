@@ -1,7 +1,7 @@
 ### Hello! 👋
 [![LinkedIn](https://img.shields.io/badge/-Jenny_V._Medina-0A66C2?style=flat-square?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jenny-v-medina-a53a0332/)
 
-👩🏻‍💻 Software Engineer @ [Planet](https://planet.com) 🌎 \
+👩🏻‍💻 Software Engineer @ [Planet](https://planet.com) 🌎
 
 #### Here's some of what I've been up to...
 
